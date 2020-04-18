@@ -1,0 +1,68 @@
+body {
+  
+  margin: auto;
+  padding: 0;
+  width: 75%;
+  font-family: sans-serif;
+}
+
+.addtodo {
+   border:5px solid #00cc99; 
+   margin: auto;
+   padding: 10px;
+}
+
+.container-class{
+  border:5px solid #666666; 
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+  }
+
+  .container-class-main{
+    border:5px solid #666666; 
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    }
+  
+
+.heading{
+ text-align: center;
+ color:#26a69a
+}
+.tododone-class{
+  text-decoration: line-through;
+    }
+
+.button-class{
+  float: right;
+  margin:5px;
+  width:100px;
+} 
+
+.add-button-class{
+  margin:5px;
+  width:100px;
+}
+
+.app-container-class{
+    
+   
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    }
+  
+.addEmp {
+    
+    float: left;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+ }
+ 
+ .button-class{
+  margin:5px;
+  width:300px;
+}    
